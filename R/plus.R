@@ -1,8 +1,14 @@
-#' input number plus 1
-#' @example
-#' plus(3)
+
+#' Title
 #'
+#' @param number
+#'
+#' @return
 #' @export
+#'
+#' @examples
+#' plus(3)
 plus <- function(number) {
   number + 1
 }
+

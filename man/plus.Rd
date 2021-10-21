@@ -2,10 +2,19 @@
 % Please edit documentation in R/plus.R
 \name{plus}
 \alias{plus}
-\title{input number plus 1}
+\title{Title}
 \usage{
 plus(number)
 }
+\arguments{
+\item{number}{}
+}
+\value{
+
+}
 \description{
-input number plus 1
+Title
+}
+\examples{
+plus(3)
 }
